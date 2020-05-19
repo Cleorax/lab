@@ -10,16 +10,16 @@
 ![1](img/insert.png)
 Сортировка Выбором:
 
-![2](/img/select.png)
+![2](img/select.png)
 
 Сортировка Слиянием:
 
-![3](/img/merge.png)
+![3](img/merge.png)
 
 Сортировка Слиянием (без рекурсии):
 
-![4](/img/iterMerge.png)
+![4](img/iterMerge.png)
 
 Сортировка Шелла:
 
-![5](/img/shell.png)
+![5](img/shell.png)
