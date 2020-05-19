@@ -7,7 +7,7 @@
 
 Сортировка Вставками:
 
-![1](/img/insert.png)
+![1](img/insert.png)
 Сортировка Выбором:
 
 ![2](/img/select.png)
